@@ -1,3 +1,3 @@
-const API_URL = "http://localhost:5000"; // Remplace par ton URL d'API
+const API_URL = "backendgoodexam-production.up.railway.app"; // Remplace par ton URL d'API
 
 export default API_URL;
